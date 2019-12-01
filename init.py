@@ -12,7 +12,7 @@ DOWNLOAD_STATEMENTS = True # Set to false to not download statements. Note that 
 DOWNLOAD_INPUTS = True     # Set to false to not download inputs. Note that if the USER_SESSION_ID is wrong or left empty, inputs will not be downloaded.
 MAKE_CODE_TEMPLATE = True  # Set to false to not make code templates. Note that even if OVERWRITE is set to True, it will never overwrite codes.
 MAKE_URL = True            # Set to false to not create a direct url link in the folder.
-author = "seven"               # Name automatically put in the code templates.
+author = "rygel"               # Name automatically put in the code templates.
 OVERWRITE = False          # If you really need to download the whole thing again, set this to true. As the creator said, AoC is fragile; please be gentle. Statements and Inputs do not change. This will not overwrite codes.
 
 # DATE SPECIFIC PARAMETERS
